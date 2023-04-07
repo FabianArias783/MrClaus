@@ -1,0 +1,32 @@
+h1 img{
+    scale: 10%;
+    margin: -600px;
+    margin-top: -500px;
+}
+
+body{
+    background-image: url("background 2.png");
+    background-size: 200vw;
+    }
+
+table{
+    background-color: #1a1a1a;
+    margin-top: 110px;
+}
+
+th,thead{
+    background-color: #fdd200;
+    color: #1a1a1a;
+    text-align: center;
+    font-size: 40px;
+}
+tbody{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+}
+
+head{
+    background-color: #1a1a1a;
+}
+
